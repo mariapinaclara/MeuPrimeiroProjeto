@@ -1,2 +1,2 @@
 # MeuPrimeiroProjeto
-Este é um projeto de exemplo para aprender sobre Git e GitHub.
+Este é um projeto de exemplo criado para aprender sobre Git e GitHub.
