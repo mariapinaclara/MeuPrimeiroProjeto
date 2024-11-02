@@ -11,3 +11,5 @@ Este projeto visa introduzir conceitos básicos de controle de versão com Git e
 ## Objetivo
 Consolidar habilidades essenciais para o desenvolvimento e colaboração de projetos em ambiente de controle de versão.
 
+
+*Adicionando mais detalhes sobre o projeto para aprendizado prático.*
